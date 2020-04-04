@@ -15,6 +15,8 @@ class Course {
 	public void setLista(List<Student> lista) {
 		this.lista = lista;
 	}
+	
+	
 	public static void funkcija(List<Integer> lista) {
 		int suma1 = 0;
 		for (int i = 0; i < lista.size(); i++) {
